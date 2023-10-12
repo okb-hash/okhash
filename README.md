@@ -11,8 +11,8 @@ you may check the authenticity of the block hash on any official blockchain oper
 <h2>✨ Hash Games ✨</h2>
 OK Hash Size<br>
 OK Hash Odd/Even<br>
-OK Hash Baccarat<br>
-<img src="https://github.com/okb-hash/okhash/blob/main/OK-Hash-Baccarat.PNG?raw=true"><br>
+<strong>OK Hash Baccarat</strong><br>
+<img src="https://github.com/okb-hash/okhash/blob/main/OK-Hash-Baccarat.PNG?raw=true" height="50%"><br>
 OK Hash Bull<br>
 OK Hash Lottery<br>
 OK Lucky Hash<br>
