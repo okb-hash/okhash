@@ -9,13 +9,13 @@ you may check the authenticity of the block hash on any official blockchain oper
 <a href="https://okhash.org" title="OK Hash">https://okhash.org</a><br><br>
 
 <h2>✨ Hash Games ✨</h2>
-<strong>OK Hash Size</strong>strong><br>
-<img src="https://github.com/okb-hash/okhash/blob/main/OK-Hash-Size.PNG?raw=true"><br>
+<strong>OK Hash Size</strong><br>
+<img src="https://github.com/okb-hash/okhash/blob/main/OK-Hash-Size.PNG?raw=true" height=50%><br>
 <strong>OK Hash Baccarat</strong><br>
 <img src="https://github.com/okb-hash/okhash/blob/main/OK-Hash-Baccarat.PNG?raw=true"><br>
 <strong>OK Hash Bull</strong>strong><br>
 <img src=https://github.com/okb-hash/okhash/blob/main/OK-Hash-Bull.PNG?raw=true"><br>
 <strong>OK Lucky Hash</strong><br>
 <img src=https://github.com/okb-hash/okhash/blob/main/OK-Lucky-Hash.PNG?raw=true"><br>
-OK Hash Lottery<br>
-OK Hash Odd/Even<br>
+<strong>OK Hash Lottery</strong><br>
+<strong>OK Hash Odd/Even</strong><br>
